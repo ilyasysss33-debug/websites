@@ -10,7 +10,16 @@ Shizuku supports startup in the following three ways.
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
-[Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
+[Source](https://github.com/RikkaApps/websites/pull/79#issue-17[bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt](https://github.com/user-attachments/files/33165599/bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt)
+
+[dumpstate-stats.txt](https://github.com/user-attachments/files/33165597/dumpstate-stats.txt)
+[bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt](https://github.com/user-attachments/files/33165596/bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt)
+
+[dumpstate-stats.txt](https://github.com/user-attachments/files/33165589/dumpstate-stats.txt)
+[bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt](https://github.com/user-attachments/files/33165588/bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt)
+[bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt](https://github.com/user-attachments/files/33165560/bugreport-spinel_ru-BP2A.250605.031.A3-2026-10-06-11-28-28-dumpstate_log-17336.txt)
+<img width="3000" height="4000" alt="IMG_2026_10_07_23_54_52_5705898259139178387482" src="https://github.com/user-attachments/assets/72b48c2e-2464-4d3e-a624-b91ab00ada7d" />
+51837442)
 
 :::
 
